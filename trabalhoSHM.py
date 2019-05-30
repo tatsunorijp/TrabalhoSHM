@@ -1,48 +1,25 @@
 MorseDictionary = {
-        'a': '.-',
-        'b': '-...',
-        'c': '-.-.',
-        'd': '-..',
-        'e': '.',
-        'f': '..-.',
-        'g': '--.',
-        'h': '....',
-        'i': '..',
-        'j': '.---',
-        'k': '-.-',
-        'l': '.-..',
-        'm': '--',
-        'n': '-.',
-        'o': '---',
-        'p': '.--.',
-        'q': '--.-',
-        'r': '.-.',
-        's': '...',
-        't': '-',
-        'u': '..-',
-        'v': '...-',
-        'w': '.--',
-        'x': '-..-',
-        'y': '-.--',
-        'z': '--..',
+        'a': '.-',  'b': '-...',    'c': '-.-.',    'd': '-..',
+        'e': '.',   'f': '..-.',    'g': '--.',     'h': '....',
+        'i': '..',  'j': '.---',    'k': '-.-',     'l': '.-..',
+        'm': '--',  'n': '-.',      'o': '---',     'p': '.--.',
+        'q': '--.-','r': '.-.',     's': '...',     't': '-',
+        'u': '..-', 'v': '...-',    'w': '.--',     'x': '-..-',
+        'y': '-.--','z': '--..',
 
-        '1': '.----',
-        '2': '..---',
-        '3': '...--',
-        '4': '....-',
-        '5': '.....',
-        '6': '-....',
-        '7': '--...',
-        '8': '---..',
-        '9': '----.',
-        '0': '-----',
-        ' ': ' '
+        '1': '.----',   '2': '..---',   '3': '...--',   '4': '....-',
+        '5': '.....',   '6': '-....',   '7': '--...',   '8': '---..',
+        '9': '----.',   '0': '-----',   ' ': ' '
     }
 
 def textToMorse(text):
     morseCode = ''
-    for letter in text:
-        morseCode += MorseDictionary[letter.lower()]
+    for char in text:
+        if char != ' ':
+            morseCode += MorseDictionary[char.lower()] + ' '
+        else:
+            morseCode += ' '
+            
     return morseCode
 
 def morseToCode(morseCode):
@@ -53,9 +30,7 @@ def morseToCode(morseCode):
         if (code != ' '):
             i = 0
             codeLetter += code
-
         else:
-
             i += 1
             if i == 2:
                 text += ' '
@@ -65,19 +40,24 @@ def morseToCode(morseCode):
 
     return text
 
-inputFile = input("Digite o nome do arquivo de entrada\n")
-
-extension = inputFile.split('.')
+inputFileName = input("Digite o nome do arquivo de entrada\n")
+extension = inputFileName.split('.')
+text = ""
 
 if (extension[1] == "txt"):
     print("arquivo txt\n")
-    arquivo = input("Digite o arquivo txt\n")
-    print(textToMorse(arquivo))
+    file = open(inputFileName, 'r')
+    text = file.read()
+
+    print(textToMorse(text))
+
+    file.close()
 
 elif extension[1] == "morse":
     print("arquivo morse\n")
-    arquivo = input("Digite o arquivo morse\n")
-    print(morseToCode(arquivo))
+    file = open(inputFileName, 'r')
+    text = file.read()
+    print(morseToCode(text))
 
 elif extension[1] == "wav":
     print("arquivo wav")
