@@ -19,7 +19,7 @@ def textToMorse(text):
             morseCode += MorseDictionary[char.lower()] + ' '
         else:
             morseCode += ' '
-            
+
     return morseCode
 
 def morseToCode(morseCode):
