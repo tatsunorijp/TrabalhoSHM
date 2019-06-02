@@ -1,3 +1,8 @@
+unityTime = 0.25
+frequency = 440
+sampleRate = 48000
+sampleWidth = 16000
+
 MorseDictionary = {
         'a': '.-',  'b': '-...',    'c': '-.-.',    'd': '-..',
         'e': '.',   'f': '..-.',    'g': '--.',     'h': '....',
@@ -96,36 +101,36 @@ def binaryMorseToMorse(binaryText):
 
     return morseText[:-2]
 
+def main():
+    inputFileName = input("Digite o nome do arquivo de entrada\n")
+    extension = inputFileName.split('.')
+    text = ""
 
+    if (extension[1] == "txt"):
+        print("arquivo txt\n")
+        file = open(inputFileName, 'r')
+        text = file.read()
+        morseCode = textToMorse(text)
+        print(morseCode)
+        binaryMorse = morseToBinaryMorse(morseCode)
+        print(binaryMorse)
 
+        file.close()
 
+    elif extension[1] == "morse":
+        print("arquivo morse\n")
+        file = open(inputFileName, 'r')
+        binaryMorse = file.read()
+        morseText = binaryMorseToMorse(binaryMorse)
+        print(morseText)
+        text = morseToText(morseText)
+        print(text)
 
-inputFileName = input("Digite o nome do arquivo de entrada\n")
-extension = inputFileName.split('.')
-text = ""
+    elif extension[1] == "wav":
+        print("arquivo wav")
 
-if (extension[1] == "txt"):
-    print("arquivo txt\n")
-    file = open(inputFileName, 'r')
-    text = file.read()
-    morseCode = textToMorse(text)
-    print(morseCode)
-    binaryMorse = morseToBinaryMorse(morseCode)
-    print(binaryMorse)
+    else:
+        print("Erro de formato de arquivo ou Arquivo não encontrado\n")
+    return
 
-    file.close()
-
-elif extension[1] == "morse":
-    print("arquivo morse\n")
-    file = open(inputFileName, 'r')
-    binaryMorse = file.read()
-    morseText = binaryMorseToMorse(binaryMorse)
-    print(morseText)
-    text = morseToText(morseText)
-    print(text)
-
-elif extension[1] == "wav":
-    print("arquivo wav")
-
-else:
-    print("Erro de formato de arquivo ou Arquivo não encontrado\n")
+main()
