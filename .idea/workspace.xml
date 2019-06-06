@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a8d654b-5a5f-49ad-9254-8dfa2824d8aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/inputs/binaryCode.morse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/inputs/input.morse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/inputs/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Save.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TrabalhoSHM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TrabalhoSHM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trabalhoSHM.py" beforeDir="false" afterPath="$PROJECT_DIR$/trabalhoSHM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.morse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediaryText.morse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trabalhoSHM.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,38 +26,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/trabalhoSHM.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="60">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               <folding>
-                <element signature="e#31#647#0" />
-                <element signature="e#655#687#0" />
-                <element signature="e#716#1051#0" />
-                <element signature="e#1086#1924#0" />
-                <element signature="e#1966#2186#0" />
-                <element signature="e#2228#2836#0" />
-                <element signature="e#2859#2865#0" />
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#281#897#0" />
+                <element signature="e#983#1320#0" />
+                <element signature="e#1355#2193#0" />
+                <element signature="e#3175#3378#0" />
+                <element signature="e#3415#3627#0" />
+                <element signature="e#2597#2840#0" />
+                <element signature="e#2861#3123#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intermediaryText.morse">
+        <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/io/wavfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            <state relative-caret-position="178">
+              <caret line="232" selection-start-line="232" selection-end-line="232" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input.morse">
+        <entry file="file://$PROJECT_DIR$/src/Menu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/inputs/input.morse">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="94" lean-forward="true" selection-start-column="94" selection-end-column="94" />
+              <caret column="48" selection-start-column="48" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/inputs/binaryCode.morse">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="130" selection-start-column="130" selection-end-column="130" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/outputs/text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/outputs/morseCode.morse">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/inputs/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/outputs/binaryCode.bin">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="138" lean-forward="true" selection-start-column="138" selection-end-column="138" />
             </state>
           </provider>
         </entry>
@@ -58,8 +141,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -69,16 +157,30 @@
         <option value="$PROJECT_DIR$/code.morse" />
         <option value="$PROJECT_DIR$/file.txt" />
         <option value="$PROJECT_DIR$/binary.morse" />
-        <option value="$PROJECT_DIR$/input.morse" />
         <option value="$PROJECT_DIR$/intermediaryText.morse" />
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/input.morse" />
+        <option value="$PROJECT_DIR$/binaryCode.morse" />
         <option value="$PROJECT_DIR$/trabalhoSHM.py" />
+        <option value="$PROJECT_DIR$/src/trabalhoSHM.py" />
+        <option value="$PROJECT_DIR$/src/Save.py" />
+        <option value="$PROJECT_DIR$/src/TrabalhoSHM.py" />
+        <option value="$PROJECT_DIR$/src/Main.py" />
+        <option value="$PROJECT_DIR$/resources/inputs/input.txt" />
+        <option value="$PROJECT_DIR$/src/Menu.py" />
+        <option value="$PROJECT_DIR$/src/Functions.py" />
+        <option value="$PROJECT_DIR$/src/Tests.py" />
+        <option value="$PROJECT_DIR$/resources/outputs/morseCode.morse" />
+        <option value="$PROJECT_DIR$/resources/outputs/text.txt" />
+        <option value="$PROJECT_DIR$/resources/inputs/input.morse" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1294" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="35" />
+    <option name="y" value="23" />
+    <option name="width" value="1405" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -86,7 +188,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,10 +195,33 @@
               <item name="TrabalhoSHM" type="b2602c69:ProjectViewProjectNode" />
               <item name="TrabalhoSHM" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TrabalhoSHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrabalhoSHM" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrabalhoSHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrabalhoSHM" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="inputs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrabalhoSHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrabalhoSHM" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="outputs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrabalhoSHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrabalhoSHM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,6 +229,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/inputs" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,7 +248,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests in Tests.py">
+    <configuration name="Menu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrabalhoSHM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="trabalhoSHM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TrabalhoSHM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +284,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trabalhoSHM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,8 +293,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in Tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="TrabalhoSHM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Menu" />
+      <item itemvalue="Python.trabalhoSHM" />
+      <item itemvalue="Python tests.Unittests in Tests.py" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in Tests.py" />
+        <item itemvalue="Python.Menu" />
         <item itemvalue="Python.trabalhoSHM" />
       </list>
     </recent_temporary>
@@ -160,8 +334,17 @@
       <workItem from="1559183181581" duration="7968000" />
       <workItem from="1559195612967" duration="517000" />
       <workItem from="1559257250073" duration="2345000" />
-      <workItem from="1559347245261" duration="8436000" />
-      <workItem from="1559430298569" duration="1643000" />
+      <workItem from="1559347245261" duration="7192000" />
+      <workItem from="1559437095213" duration="406000" />
+      <workItem from="1559437640291" duration="1154000" />
+      <workItem from="1559442347298" duration="3477000" />
+      <workItem from="1559448451757" duration="131000" />
+      <workItem from="1559449044632" duration="688000" />
+      <workItem from="1559449940540" duration="10574000" />
+      <workItem from="1559569193887" duration="975000" />
+      <workItem from="1559576229989" duration="200000" />
+      <workItem from="1559779705029" duration="2420000" />
+      <workItem from="1559782653173" duration="9144000" />
     </task>
     <task id="LOCAL-00001" summary="texto para morse e inverso implementado">
       <created>1559196083688</created>
@@ -180,8 +363,40 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 19m 22s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 22m 44s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 22m 52s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 31m 17s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 31m 59s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 32m 28s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 39m 42s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 42m 51s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 44m 09s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 44m 28s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20909000" />
+    <option name="totallyTimeSpent" value="47191000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,29 +408,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28687197" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15665236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32444444" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283767" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30607188" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32996634" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939634" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32555556" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32996634" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32465923" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.6111519" />
       <window_info anchor="right" x="0" y="0" width="273" height="847" id="Documentation" order="4" side_tool="true" weight="0.3298217" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
@@ -229,43 +444,122 @@
     <option name="LAST_COMMIT_MESSAGE" value="implementado a entrada de arquivos, e corrigido a traducao de txt para morse, faltava tratar espaço" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TrabalhoSHM$trabalhoSHM.coverage" NAME="trabalhoSHM Coverage Results" MODIFIED="1559431945929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrabalhoSHM$trabalhoSHM.coverage" NAME="trabalhoSHM Coverage Results" MODIFIED="1559791086245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrabalhoSHM$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1559792595501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrabalhoSHM$Unittests_in_Tests_py.coverage" NAME="Unittests in Tests.py Coverage Results" MODIFIED="1559792667771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/input.txt">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/soundfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="156">
+          <caret line="1181" selection-start-line="1181" selection-end-line="1181" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoSHM.py">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/pydub/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="163">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/wave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3630">
+          <caret line="242" selection-start-line="242" selection-end-line="242" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding>
-            <element signature="e#31#647#0" />
-            <element signature="e#655#687#0" />
-            <element signature="e#716#1051#0" />
-            <element signature="e#1086#1924#0" />
-            <element signature="e#1966#2186#0" />
-            <element signature="e#2228#2836#0" />
-            <element signature="e#2859#2865#0" />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#281#897#0" />
+            <element signature="e#983#1320#0" />
+            <element signature="e#1355#2193#0" />
+            <element signature="e#3175#3378#0" />
+            <element signature="e#3415#3627#0" />
+            <element signature="e#2597#2840#0" />
+            <element signature="e#2861#3123#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intermediaryText.morse">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/io/wavfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        <state relative-caret-position="178">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input.morse">
+    <entry file="file://$PROJECT_DIR$/src/Menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/binaryCode.bin">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="94" lean-forward="true" selection-start-column="94" selection-end-column="94" />
+          <caret column="138" lean-forward="true" selection-start-column="138" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/morseCode.morse">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/binaryCode.morse">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="130" selection-start-column="130" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/input.morse">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
         </state>
       </provider>
     </entry>
