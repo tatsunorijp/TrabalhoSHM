@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a8d654b-5a5f-49ad-9254-8dfa2824d8aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/inputs/binaryCode.morse" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/inputs/input.morse" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/inputs/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Save.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TrabalhoSHM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TrabalhoSHM.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.morse" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intermediaryText.morse" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trabalhoSHM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/inputs/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/inputs/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Save.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Save.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,27 +20,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="224">
+              <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <element signature="e#281#897#0" />
-                <element signature="e#983#1320#0" />
-                <element signature="e#1355#2193#0" />
-                <element signature="e#3175#3378#0" />
-                <element signature="e#3415#3627#0" />
-                <element signature="e#2597#2840#0" />
-                <element signature="e#2861#3123#0" />
+                <element signature="e#212#828#0" />
+                <element signature="e#857#1197#0" />
+                <element signature="e#1232#2070#0" />
+                <element signature="e#2106#2309#0" />
+                <element signature="e#2346#2558#0" />
+                <element signature="e#2602#2827#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/io/wavfile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="232" selection-start-line="232" selection-end-line="232" />
             </state>
           </provider>
         </entry>
@@ -57,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Menu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="525">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -66,29 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/inputs/input.morse">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="48" selection-start-column="48" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/inputs/binaryCode.morse">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="130" selection-start-column="130" selection-end-column="130" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+            <state relative-caret-position="60">
+              <caret line="4" column="58" lean-forward="true" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -96,38 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/outputs/text.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/outputs/morseCode.morse">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/inputs/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/outputs/binaryCode.bin">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="138" lean-forward="true" selection-start-column="138" selection-end-column="138" />
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -144,6 +80,7 @@
   <component name="FindInProjectRecents">
     <dirStrings>
       <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$/resources/outputs</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -163,20 +100,20 @@
         <option value="$PROJECT_DIR$/binaryCode.morse" />
         <option value="$PROJECT_DIR$/trabalhoSHM.py" />
         <option value="$PROJECT_DIR$/src/trabalhoSHM.py" />
-        <option value="$PROJECT_DIR$/src/Save.py" />
         <option value="$PROJECT_DIR$/src/TrabalhoSHM.py" />
         <option value="$PROJECT_DIR$/src/Main.py" />
-        <option value="$PROJECT_DIR$/resources/inputs/input.txt" />
-        <option value="$PROJECT_DIR$/src/Menu.py" />
-        <option value="$PROJECT_DIR$/src/Functions.py" />
-        <option value="$PROJECT_DIR$/src/Tests.py" />
-        <option value="$PROJECT_DIR$/resources/outputs/morseCode.morse" />
         <option value="$PROJECT_DIR$/resources/outputs/text.txt" />
         <option value="$PROJECT_DIR$/resources/inputs/input.morse" />
+        <option value="$PROJECT_DIR$/src/Tests.py" />
+        <option value="$PROJECT_DIR$/resources/outputs/morseCode.morse" />
+        <option value="$PROJECT_DIR$/src/Save.py" />
+        <option value="$PROJECT_DIR$/src/Menu.py" />
+        <option value="$PROJECT_DIR$/src/Functions.py" />
+        <option value="$PROJECT_DIR$/resources/inputs/input.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="35" />
     <option name="y" value="23" />
     <option name="width" value="1405" />
@@ -188,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,7 +159,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in Tests.py">
+  <component name="RunManager" selected="Python.Menu">
     <configuration name="Menu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TrabalhoSHM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,8 +252,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in Tests.py" />
         <item itemvalue="Python.Menu" />
+        <item itemvalue="Python tests.Unittests in Tests.py" />
         <item itemvalue="Python.trabalhoSHM" />
       </list>
     </recent_temporary>
@@ -344,7 +281,8 @@
       <workItem from="1559569193887" duration="975000" />
       <workItem from="1559576229989" duration="200000" />
       <workItem from="1559779705029" duration="2420000" />
-      <workItem from="1559782653173" duration="9144000" />
+      <workItem from="1559782653173" duration="9436000" />
+      <workItem from="1559862818159" duration="1334000" />
     </task>
     <task id="LOCAL-00001" summary="texto para morse e inverso implementado">
       <created>1559196083688</created>
@@ -364,39 +302,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 19m 22s.xml">
-      <configuration name="Unittests in Tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 22m 44s.xml">
-      <configuration name="Unittests in Tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 22m 52s.xml">
-      <configuration name="Unittests in Tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 31m 17s.xml">
-      <configuration name="Unittests in Tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 31m 59s.xml">
-      <configuration name="Unittests in Tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 32m 28s.xml">
-      <configuration name="Unittests in Tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 39m 42s.xml">
-      <configuration name="Unittests in Tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 42m 51s.xml">
-      <configuration name="Unittests in Tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 44m 09s.xml">
-      <configuration name="Unittests in Tests.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 44m 28s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 49m 15s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 49m 52s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 50m 02s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 00h 50m 13s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 20h 14m 03s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 20h 14m 27s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 20h 15m 22s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 20h 15m 50s.xml">
+      <configuration name="Unittests in Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Tests_py - 2019.06.06 at 20h 31m 22s.xml">
       <configuration name="Unittests in Tests.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47191000" />
+    <option name="totallyTimeSpent" value="48817000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -408,15 +346,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="35" y="23" width="1405" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15665236" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16287601" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3283767" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30607188" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.324147" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -445,8 +383,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TrabalhoSHM$trabalhoSHM.coverage" NAME="trabalhoSHM Coverage Results" MODIFIED="1559791086245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TrabalhoSHM$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1559792595501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TrabalhoSHM$Unittests_in_Tests_py.coverage" NAME="Unittests in Tests.py Coverage Results" MODIFIED="1559792667771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/TrabalhoSHM$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1559864158069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrabalhoSHM$Unittests_in_Tests_py.coverage" NAME="Unittests in Tests.py Coverage Results" MODIFIED="1559863882305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/soundfile.py">
@@ -470,79 +408,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Save.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#281#897#0" />
-            <element signature="e#983#1320#0" />
-            <element signature="e#1355#2193#0" />
-            <element signature="e#3175#3378#0" />
-            <element signature="e#3415#3627#0" />
-            <element signature="e#2597#2840#0" />
-            <element signature="e#2861#3123#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/io/wavfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="3405">
           <caret line="232" selection-start-line="232" selection-end-line="232" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Menu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/outputs/binaryCode.bin">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="138" lean-forward="true" selection-start-column="138" selection-end-column="138" />
+          <caret column="44" selection-start-column="44" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/outputs/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/outputs/morseCode.morse">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/inputs/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="17" selection-start-column="17" selection-end-column="17" />
@@ -560,6 +440,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/outputs/morseCode.morse">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" lean-forward="true" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="58" lean-forward="true" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#212#828#0" />
+            <element signature="e#857#1197#0" />
+            <element signature="e#1232#2070#0" />
+            <element signature="e#2106#2309#0" />
+            <element signature="e#2346#2558#0" />
+            <element signature="e#2602#2827#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/inputs/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>

@@ -8,10 +8,10 @@ binario = "111011100010001010111000000011101110100010111000111000111011101110000
 class Tests(unittest.TestCase):
 
 
-    # def testTextToMorse(self):
-    #     result = Functions.textToMorse(text)
-    #     expected = morse
-    #     self.assertEqual(expected, result)
+    def testTextToMorse(self):
+        result = Functions.textToMorse(text)
+        expected = morse
+        self.assertEqual(expected, result)
 
     def testMorseToText(self):
         result = Functions.morseToText(morse)

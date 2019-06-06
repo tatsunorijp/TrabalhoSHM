@@ -2,7 +2,6 @@ import wave
 import struct
 import numpy as np
 import scipy.io.wavfile as wavfile
-import Save as save
 
 unityTime = 0.25
 frequency = 440
@@ -39,7 +38,7 @@ def textToMorse(text):
         else:
             morseCode += ' '
 
-    return morseCode
+    return morseCode[:-1]
 
 def morseToText(morseCode) :
     # ADICIONA UM ESPAÇO PARA A ÚLTIMA ITERAÇÃO

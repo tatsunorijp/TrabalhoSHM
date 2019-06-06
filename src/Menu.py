@@ -1,7 +1,6 @@
 import Functions as f
 import Save as save
-import scipy.io.wavfile as wavfile
-import Save as save
+import wave as wav
 
 def main():
     inputFileName = input("Digite o nome do arquivo de entrada\n")

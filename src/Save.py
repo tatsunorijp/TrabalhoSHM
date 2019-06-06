@@ -1,3 +1,4 @@
+import wave
 
 outputPath = "resources/outputs/"
 
